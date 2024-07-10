@@ -35,13 +35,12 @@ This project demonstrates the use of PyTorch to build, train, and evaluate neura
 ```python moon_spiral_classification.py```
 
 3. **View Results:** The script will output training and testing loss/accuracy and plot decision boundaries for both training and test sets.
-![Spiral classification](https://github.com/mubasherrehman/Moon-and-Spiral-Data-Classification-with-PyTorch/assets/73284490/2c6842e6-8971-4b92-946c-e09f11ab27aa)
 
 ## Example Output
 The model's performance and decision boundaries will be visualized as follows:
   - Training and Testing Accuracy: Logged every 100 epochs.
   - Decision Boundary Plots: Displayed for both moon and spiral datasets.
-  - 
+![Spiral classification](https://github.com/mubasherrehman/Moon-and-Spiral-Data-Classification-with-PyTorch/assets/73284490/2c6842e6-8971-4b92-946c-e09f11ab27aa)
 # Code Overview
 **Moon Dataset**
 - **Data Preparation:** Generate and visualize the moon dataset.
